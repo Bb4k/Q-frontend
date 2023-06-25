@@ -6,19 +6,25 @@ Welcome to the exciting world of Q, your trusted companion for efficient grocery
 
 With Q, you can effortlessly add your desired grocery products to your virtual cart. Say goodbye to juggling paper lists or forgetting items. Q keeps track of your shopping needs, making sure you never miss an essential item.
 
-![Home](demo\home.png)
+<div>
+  <img src="demo\home.png" alt="home" width="300">
+</div>
 
 💰 Find the Best Deals, Watch Your Savings Grow 💰
 
 Q goes the extra mile by comparing prices at multiple markets in your area. Want the best bang for your buck? Q's got your back! It shows you the value of your cart at various local markets, enabling you to choose the one with the most affordable prices. Your wallet will thank you!
 
-![Preselect](demo\before-store.png)
+<div>
+  <img src="demo\before-store.png" alt="before-store" width="300">
+</div>
 
 📍 Discover Stores Like Never Before 📍
 
 When you select a market, Q unveils a world of information beyond just prices. Get ready to make informed decisions! Q displays not only the total price but also the store's address. And that's not all! Q features an icon system that suggests how busy the store is. No more wasting time in long Queues. Q estimates how long your shopping trip might take, empowering you to plan your day with ease.
 
-![store-selection](demo\store-selection.png)
+<div>
+  <img src="demo\store-selection.png" alt="home" width="300">
+</div>
 
 📍🚗 GPS Guidance Made Easy 🚗📍
 
@@ -33,7 +39,9 @@ Q takes convenience to the next level. Once you've loaded up your cart and selec
 
 Ever wished you could navigate the store like a pro? Well, now you can with Q's "Ruta" feature! Tap the "Ruta" button, and Q reveals the optimal path for grabbing all your items in the fastest way possible. Say goodbye to wandering aimlessly through aisles. Q unlocks the secrets to efficient shopping, making you a true master of the grocery store maze.
 
-![store-path](demo\store-path.png)
+<div>
+  <img src="demo\store-path.png" alt="store-path" width="300">
+</div>
 
 ⏱️ Save Time, Save Money, Shop with Q! ⏱️
 
