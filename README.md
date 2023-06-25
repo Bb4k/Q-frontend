@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="Q/assets/Q.png" alt="Project Logo" width="200px">
+</div>
+
+## <div align="center">Q - Your Ultimate Grocery Shopping Companion 🛒</div>
+
 [![React Native](https://img.shields.io/badge/React%20Native-v0.64.2-blue.svg)](https://reactnative.dev/)
 [![Django](https://img.shields.io/badge/Django-v3.2.6-green.svg)](https://www.djangoproject.com/)
-
-🛒 Q - Your Ultimate Grocery Shopping Companion 🛒
 
 Welcome to the exciting world of Q, your trusted companion for efficient grocery shopping adventures! Developed during a thrilling 24-hour hackathon, Q is here to revolutionize your shopping experience, helping you save both time and money. Let's dive in and explore the amazing features of this app!
 
